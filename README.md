@@ -47,7 +47,7 @@
 > RPG-inspired productivity and habit tracking platform.
 > Track consistency, goals, and productivity visually.
 
-🔗 Repo: https://github.com/AbhayPratap01/ProgressTracker
+🔗 Repo: https://github.com/AbhayPratap01/GamifiedLifeOS
 
 ---
 
